@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.linkpreview.net
 common:
+  - type: DomainSecurity
+    url: security/linkpreview-domain-security.yml
   - type: Website
     url: https://www.linkpreview.net
   - type: PublicAPIsListing
