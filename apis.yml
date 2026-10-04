@@ -39,7 +39,6 @@ apis:
   - name: LinkPreview
     description: "Get JSON formatted summary with title, description and preview image for any requested URL"
     humanURL: https://www.linkpreview.net
-    baseURL: https://www.linkpreview.net
     tags:
       - Open Data
     properties:
